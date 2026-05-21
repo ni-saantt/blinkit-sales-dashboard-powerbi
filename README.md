@@ -134,14 +134,3 @@ Avg Rating = AVERAGE('BlinkIT Grocery Data'[Rating])
 
 ---
 
-## 🙋 About Me
-
-**[Your Name]**  
-Aspiring Data Analyst | Power BI | SQL | Python  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
