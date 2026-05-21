@@ -11,7 +11,7 @@ An interactive Power BI dashboard built to analyze Blinkit grocery sales data ac
 
 ## 🖼 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading)*
+> 
 
 ![Dashboard Preview](dashboard_preview.png)
 
